@@ -1,7 +1,7 @@
 # 👋 Hi,I'm SudosuBush.你们可以叫我Bush,B-U-S-H.
 
-[![GitHub followers](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudosuBush)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](SudosuBush@outlook.com)
+[![GitHub followers](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudosuBash)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](SudosuBash@outlook.com/SudosuBush@outlook.com)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-F47A20?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546953864448166)
 ---
 
@@ -11,7 +11,7 @@
 
 - 🌱 正在学习-计算机体系结构
 - 👯 寻找合作-轻量级操作系统的开发
-- 📫 如何联系我：SudosuBush@outlook.com
+- 📫 如何联系我：SudosuBash@outlook.com/SudosuBush@outlook.com
 
 ---
 
@@ -45,11 +45,11 @@
 ## 📊 我的GitHub统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudosuBush&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudosuBash&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudosuBush&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudosuBash&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -79,4 +79,4 @@
 
 *"#3) With great power comes to great responsibility."*
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SudosuBush.SudosuBush)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SudosuBash.SudosuBash)
