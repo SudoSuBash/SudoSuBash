@@ -12,7 +12,7 @@
 - 🌱 正在学习-计算机体系结构
 - 👯 寻找合作-轻量级操作系统的开发
 - 📫 如何联系我：SudosuBash@outlook.com/SudosuBush@outlook.com
-
+- 🪄 我的 Magic Number: 0x1D105D5B
 ---
 
 ## 🛠️ 我的技能
